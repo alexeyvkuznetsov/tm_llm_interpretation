@@ -5,3 +5,5 @@
 Результирующий датафрейм - topic_significant_entries.csv
 
 Интерпретация итогов тематического моделирования с помощбю LLM - tm_llm_interpretation.ipynb
+
+Ответы яхыковых моделей - supplement.pdf
