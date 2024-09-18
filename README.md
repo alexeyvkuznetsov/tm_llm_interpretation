@@ -4,4 +4,4 @@
 
 Результирующий датафрейм - topic_significant_entries.csv
 
-Интерпретаци итогов тематического моделирования с помощбю LLM - tm_llm_interpretation.ipynb
+Интерпретация итогов тематического моделирования с помощбю LLM - tm_llm_interpretation.ipynb
