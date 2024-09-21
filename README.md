@@ -7,7 +7,7 @@
 
 Интерпретация итогов тематического моделирования с помощбю LLM - [tm_llm_interpretation.ipynb](https://github.com/alexeyvkuznetsov/tm_llm_interpretation/blob/main/tm_llm_interpretation.ipynb)
 
-Ответы яхыковых моделей - [supplement.pdf]
+Ответы яхыковых моделей - [supplement.pdf](https://github.com/alexeyvkuznetsov/tm_llm_interpretation/blob/main/supplement.pdf)
 
 
 
