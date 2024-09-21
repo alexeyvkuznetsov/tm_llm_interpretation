@@ -1,7 +1,7 @@
 # От слов к смыслу: интерпретация тематики исторических текстов с помощью больших языковых моделей
 
 
-Построение тематической модели - tm_llm_interpretation.Rmd
+Построение тематической модели - [tm_llm_interpretation.Rmd](https://github.com/alexeyvkuznetsov/tm_llm_interpretation/tm_llm_interpretation.Rmd)
 
 Результирующий датафрейм - topic_significant_entries.csv
 
