@@ -5,9 +5,9 @@
 
 Результирующий датафрейм - [topic_significant_entries.csv](https://github.com/alexeyvkuznetsov/tm_llm_interpretation/blob/main/data/topic_significant_entries.csv)
 
-Интерпретация итогов тематического моделирования с помощбю LLM - tm_llm_interpretation.ipynb
+Интерпретация итогов тематического моделирования с помощбю LLM - [tm_llm_interpretation.ipynb](https://github.com/alexeyvkuznetsov/tm_llm_interpretation/blob/main/tm_llm_interpretation.ipynb)
 
-Ответы яхыковых моделей - supplement.pdf
+Ответы яхыковых моделей - [supplement.pdf]
 
 
 
